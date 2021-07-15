@@ -11,6 +11,5 @@ function BoardGame(amountCards) {
     </section>
   `;
 }
-}
 
 export default BoardGame;
