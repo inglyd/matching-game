@@ -1,11 +1,11 @@
-import from './style.css'
+import './style.css';
 
-function PlayerName(content){
+function PlayerName(content) {
   return `
   <p class="player-name">
     ${content}
   </p>
-  `
+  `;
 }
 
-export default PlayerName; 
+export default PlayerName;
